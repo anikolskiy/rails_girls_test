@@ -9,6 +9,7 @@ https://nodejs.org/download/release/latest/
 http://www.sublimetext.com/2
 
 ucet heroku
+
 vyzkouset deploy
 
 .bat pro spusteni
